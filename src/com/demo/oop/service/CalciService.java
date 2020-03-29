@@ -1,5 +1,5 @@
 package com.demo.oop.service;
-
+//Abstraction
 import com.demo.oop.model.Calci;
 
 public interface CalciService {
