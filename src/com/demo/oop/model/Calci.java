@@ -1,5 +1,5 @@
 package com.demo.oop.model;
-
+//Encapsulation
 public class Calci {
 	private int num1;
 	private int num2;
