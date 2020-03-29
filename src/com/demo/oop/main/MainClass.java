@@ -3,7 +3,7 @@ package com.demo.oop.main;
 import com.demo.oop.service.CalciService;
 import com.demo.oop.service.serviceimpl.ServiceImpl;
 import com.demo.oop.utility.InputScanner;
-
+//Controller
 public class MainClass {
 	public static void main(String[] args) {
 		CalciService c = new ServiceImpl();
